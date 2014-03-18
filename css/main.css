@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+#foo .slideme {
+	width: 100%;
+	height: 100%;
+}
+
+#knowledge{
+	background-color: maroon;
+}
+
+#music{
+	background-color: blue;
+}
+
+#daddy{
+	background-color: yellow;
+}
